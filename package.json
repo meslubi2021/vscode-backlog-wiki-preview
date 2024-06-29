@@ -375,7 +375,7 @@
 		"vscode:prepublish": "node ./node_modules/gulp/bin/gulp.js --gulpfile ./gulpfile.js compile"
 	},
 	"dependencies": {
-		"highlight.js": "^9.12.3",
+		"highlight.js": "^10.4.1",
 		"markdown-it": "^10.0.0",
 		"markdown-it-front-matter": "^0.1.2",
 		"vscode-extension-telemetry": "^0.1.2",
@@ -388,7 +388,7 @@
 		"@types/node": "^12.11.7",
 		"event-stream": "^4.0.1",
 		"glob": "^7.1.6",
-		"gulp": "^3.9.1",
+		"gulp": "^5.0.0",
 		"gulp-filter": "^6.0.0",
 		"gulp-sourcemaps": "^2.6.5",
 		"gulp-tsb": "^2.0.5",
@@ -399,7 +399,7 @@
 		"tslint": "^5.20.1",
 		"typescript": "^3.7.2",
 		"vinyl-fs": "^3.0.3",
-		"vsce": "^1.69.0",
+		"vsce": "^1.103.1",
 		"vscode": "^1.1.37"
 	}
 }
